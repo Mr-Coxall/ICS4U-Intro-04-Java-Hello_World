@@ -5,7 +5,7 @@ package ca.mths.intro.intro_01.java.hello_world;
 *
 * @author  Mr Coxall
 * @version 1.0
-* @since   2020-01-01
+* @since   2020-09-01
 */
 final class HelloWorld {
     private HelloWorld() {
