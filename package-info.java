@@ -6,4 +6,4 @@
 * @version 1.0
 * @since   2020-01-01
 */
-package ca.mths.intro.intro_04.java.hello_world;
+package ca.mths.ics4u;
