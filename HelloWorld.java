@@ -1,4 +1,4 @@
-package ca.mths.intro.intro_01.java.hello_world;
+package ca.mths.intro.intro_04.java.hello_world;
 /**
 * The Hello World! program implements an application that
 * simply displays "Hello World!" to the standard output.
@@ -12,6 +12,7 @@ final class HelloWorld {
         // Prevent instantiation
         // Optional: throw an exception e.g. AssertionError
         // if this ever *is* called
+        throw new IllegalStateException("Cannot be instantiated");
     }
     /**
     * This method prints out "Hello, World!".
@@ -19,5 +20,6 @@ final class HelloWorld {
     */
     public static void main(final String[] args) {
         System.out.println("Hello, World!");
+        System.out.println("\nDone.");
     }
 }
