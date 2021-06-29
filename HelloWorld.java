@@ -15,6 +15,8 @@ final class HelloWorld {
   }
   /**
   * This method prints out "Hello, World!".
+  *
+  * @return "void", nothing returned
   */
 
   public static void main(final String[] args) {
