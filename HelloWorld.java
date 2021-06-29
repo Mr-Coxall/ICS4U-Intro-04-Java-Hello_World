@@ -15,8 +15,10 @@ final class HelloWorld {
   }
   /**
   * This method prints out "Hello, World!".
+  *
   * @param args qwerty
   */
+  
   public static void main(final String[] args) {
     System.out.println("Hello, World!");
     System.out.println("\nDone.");
