@@ -16,6 +16,7 @@ final class HelloWorld {
   /**
   * This method prints out "Hello, World!".
   *
+  * @param args none will be used
   * @return "void", nothing returned
   */
 
